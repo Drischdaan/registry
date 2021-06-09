@@ -1,15 +1,11 @@
-<center>
-    <h1>
-        @drischdaan/registry
-    </h1>
-    <p>
-        <img src="https://img.shields.io/npm/v/@drischdaan/registry?logo=npm&style=flat-square&link=https://www.npmjs.com/package/@drischdaan/registry">
-        <img src="https://img.shields.io/github/license/Drischdaan/registry?style=flat-square">
-    </p>
-    <p>
-        <img src="https://img.shields.io/github/workflow/status/Drischdaan/registry/Tests?label=tests&logo=github&style=flat-square">
-    </p>
-</center>
+<h1 align="center">@drischdaan/registry</h1>
+<p align="center">
+    <img src="https://img.shields.io/npm/v/@drischdaan/registry?logo=npm&style=flat-square&link=https://www.npmjs.com/package/@drischdaan/registry">
+    <img src="https://img.shields.io/github/license/Drischdaan/registry?style=flat-square">
+</p>
+<p align="center">
+    <img src="https://img.shields.io/github/workflow/status/Drischdaan/registry/Tests?label=tests&logo=github&style=flat-square">
+</p>
 A typeorm repository inspired map wrapper
 
 ## Examples
